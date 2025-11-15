@@ -1,3 +1,8 @@
+# File Name : database_merger.py
+# Author : Erwan Setyo Budi
+# Date Created : 15/11/2025
+# Email : erwans818@gmail.com
+
 import mysql.connector
 from mysql.connector import Error
 import configparser
