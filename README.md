@@ -16,7 +16,7 @@ Tools untuk menggabungkan beberapa database SLiMS menjadi satu database terpadu.
 - MySQL Server
 - Akses ke database SLiMS sumber
 
-## 🚀 Instalasi
+##  Instalasi
 
 1. **Clone repository ini**
    ```bash
